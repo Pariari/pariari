@@ -1,0 +1,22 @@
+---
+label: Exhibition
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: exhibition_start
+  label: exhibition_start
+- type: text
+  name: exhibition_end
+  label: exhibition_end
+- type: textarea
+  name: artists
+  label: artists
+- type: text
+  name: curators
+  label: curators
