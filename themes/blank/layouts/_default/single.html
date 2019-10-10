@@ -1,0 +1,35 @@
+{{ define "main" }}
+	<main class="exhibition">
+		{{ range first 1 (.Resources.ByType "image") }}
+		<figure>
+			<img src="{{ .Permalink }}">
+		</figure>
+		{{ end }}
+
+		<article>
+			<div class="exhibition_info">
+				<h1>{{ .Title }}</h1>
+				<ul>
+					<li>{{ .Params.exhibition_start }}</li>
+					<li>{{ .Params.exhibition_end }}</li>
+				</ul>
+			</div>
+
+			{{ if or .Params.artists .Params.curators }}
+			<div class="exhibition_artists">
+				{{ with .Params.artists }}<p>{{ . }}</p>{{ end }}
+				{{ with .Params.curators}}<p>Curated by {{ . }}</p>{{ end }}
+			</div>
+			{{ end }}
+
+			<div class="exhibition_description">
+				{{ .Content }}
+			</div>
+		</article>
+		{{ range after 1 (.Resources.ByType "image") }}
+		<figure>
+			<img src="{{ .Permalink }}">
+		</figure>
+		{{ end }}
+	</main>
+{{ end }}

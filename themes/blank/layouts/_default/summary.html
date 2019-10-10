@@ -1,0 +1,8 @@
+<article class="summary">
+	<a href="{{ .Permalink }}">
+		{{ range first 1 (.Resources.ByType "image") }}
+			<img src="{{ .Permalink }}">
+		{{ end }}
+	</a>
+	<h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+</article>
