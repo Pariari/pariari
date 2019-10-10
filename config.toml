@@ -1,4 +1,4 @@
-baseURL = "http://pariari.github.io"
+baseURL = "https://pariari.github.io/"
 languageCode = "en-us"
 theme = "blank"
 
