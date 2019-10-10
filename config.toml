@@ -1,0 +1,10 @@
+baseURL = "http://pariari.github.io"
+languageCode = "en-us"
+theme = "blank"
+
+title = "Pari"
+
+[params]
+  address = "Cnr Hunter St and O'Connell St, Parramatta"
+  instagram = "https://instagram.com/pari_ari_"
+  facebook = "https://facebook.com/pariartspace"
