@@ -1,8 +1,27 @@
-<article class="summary">
+<div class="summary" style="margin-top:60px">
 	<a href="{{ .Permalink }}">
 		{{ range first 1 (.Resources.ByType "image") }}
 			<img src="{{ .Permalink }}">
 		{{ end }}
 	</a>
-	<h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
-</article>
+	<article style="margin-top:40px">
+		<div class="exhibition_info">
+			<h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+			<ul>
+				<li>{{ .Params.exhibition_start }} –</li>
+				<li>{{ .Params.exhibition_end }}</li>
+			</ul>
+		</div>
+
+		{{ if or .Params.artists .Params.curators }}
+		<div class="exhibition_artists">
+			{{ with .Params.artists }}<p>{{ . }}</p>{{ end }}
+			{{ with .Params.curators}}<p>Curated by {{ . }}</p>{{ end }}
+		</div>
+		{{ end }}
+
+		<div class="exhibition_description">
+			{{ .Params.synopsis }}
+		</div>
+	</article>
+</div>

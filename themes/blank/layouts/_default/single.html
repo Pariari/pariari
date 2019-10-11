@@ -1,7 +1,7 @@
 {{ define "main" }}
 	<main class="exhibition">
 		{{ range first 1 (.Resources.ByType "image") }}
-		<figure>
+		<figure class="exhibition_header">
 			<img src="{{ .Permalink }}">
 		</figure>
 		{{ end }}
@@ -10,7 +10,7 @@
 			<div class="exhibition_info">
 				<h1>{{ .Title }}</h1>
 				<ul>
-					<li>{{ .Params.exhibition_start }}</li>
+					<li>{{ .Params.exhibition_start }} –</li>
 					<li>{{ .Params.exhibition_end }}</li>
 				</ul>
 			</div>
@@ -24,10 +24,14 @@
 
 			<div class="exhibition_description">
 				{{ .Content }}
+				{{ range first 1 (.Resources.ByType "pdf") }}
+					<br>
+					<a href="{{ .Permalink }}" target="_blank" class="button">Roomsheet (PDF)</a>
+				{{ end }}
 			</div>
 		</article>
 		{{ range after 1 (.Resources.ByType "image") }}
-		<figure>
+		<figure class="exhibition_documentation">
 			<img src="{{ .Permalink }}">
 		</figure>
 		{{ end }}

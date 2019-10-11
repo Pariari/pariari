@@ -2,8 +2,19 @@
 title: "About"
 date: 2019-10-10T18:27:28+02:00
 draft: false
+layout: "about"
 menu: main
 weight: 2
+
+address_line1: Cnr Hunter St and O'Connell St
+address_line2: Parramatta NSW 2150
+email: hello@pariari.org
+opening_days: Wednesday–Sunday
+opening_hours: 10.30am–5pm
 ---
 
-Pari is an artist run space.
+Pari is a new artist-run initiative in Parramatta. We are for art that tells stories that need to be told, sheds new light on old thinking, or tackles new ideas altogether. We are for getting you to Parra, or making it so that you don’t have to leave here to come together over new, challenging, boundary-pushing art. We are for bringing art and ideas to Western Sydney audiences, and bringing audiences from elsewhere to experience art in the crane-hogging, uber-developing, beautifully contradictory and diverse place we call Parramatta, in the geographical centre of Sydney’s urban sprawl, in the heart of unceded Darug territory.
+
+We will facilitate the space, but what Pari is will be defined by the people who show here, the people who come and look and listen, the conversations that happen, the things that get said and thought and reconsidered.
+
+The first few shows at Pari will be curated in-house, after which time exhibitions will be programmed from open call outs. Pari will pay artist fees for every exhibition and public program, with support from the NSW Government through Create NSW.
