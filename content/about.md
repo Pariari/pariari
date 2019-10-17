@@ -11,7 +11,7 @@ address_line2: Parramatta NSW 2150
 email: hello@pariari.org
 opening_days: Wednesday–Friday
 opening_hours: 11am–6pm
-opening_weekend: Saturday-Sunday
+opening_weekend: Saturday–Sunday
 opening_hours_weekend: 12pm–4pm
 ---
 
