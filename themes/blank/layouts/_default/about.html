@@ -5,9 +5,14 @@
 				<p>Visit</p>
 				<p>{{ .Params.address_line1 }}<br>
 				{{ .Params.address_line2 }}</p>
-				<p>Opening hours<br>
+				<br>
+				<p>Opening hours</p>
+				<p>
 					{{ .Params.opening_days }}<br>
-					{{ .Params.opening_hours }}</p>
+					{{ .Params.opening_hours }}<br><br>
+					{{ .Params.opening_weekend }}<br>
+					{{ .Params.opening_hours_weekend }}<br>
+				</p>
 			</div>
 
 			<div class="about_contact">
@@ -15,6 +20,7 @@
 				<p><a href="{{ .Site.Params.instagram }}">Instagram</a>
 					<br><a href="{{ .Site.Params.facebook }}">Facebook</a>
 				</p>
+				<br>
 				<p><a href="mailto:{{ .Params.email }}">Email</a></p>
 				<p></p>
 				<!-- Begin MailChimp Signup Form -->
