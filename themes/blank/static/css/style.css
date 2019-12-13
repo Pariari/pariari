@@ -154,6 +154,10 @@ article {
   width: 100%;
 }
 
+.streetview {
+  height: 200px;
+}
+
 .directors, .sponsors {
   margin-top: 60px;
 }
