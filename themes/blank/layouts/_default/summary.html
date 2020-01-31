@@ -1,10 +1,10 @@
 <div class="summary">
 	<a href="{{ .Permalink }}">
+		<!-- <figure class="exhibition_header_notfixed"> -->
 		{{ range first 1 (.Resources.ByType "image") }}
-		<figure class="exhibition_header_notfixed">
 			<img src="{{ .Permalink }}">
-		</figure>
 		{{ end }}
+		<!-- </figure> -->
 	</a>
 	<article style="margin-top:40px">
 		<div class="exhibition_info">
