@@ -1,7 +1,9 @@
-<div class="summary" style="margin-top:60px">
+<div class="summary">
 	<a href="{{ .Permalink }}">
 		{{ range first 1 (.Resources.ByType "image") }}
+		<figure class="exhibition_header_notfixed">
 			<img src="{{ .Permalink }}">
+		</figure>
 		{{ end }}
 	</a>
 	<article style="margin-top:40px">

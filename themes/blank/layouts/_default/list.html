@@ -1,8 +1,11 @@
 {{ define "main" }}
 	<main>
-		<h2>Current Show</h2>
-
-		{{ range .Paginator.Pages }}
+		<h2>Current Exhibition</h2>
+		{{ range first 1 .Paginator.Pages }}
+			{{ .Render "summary" }}
+		{{ end }}
+		<h2>Previous Exhibitions</h2>
+		{{ range after 1 .Paginator.Pages }}
 			{{ .Render "summary" }}
 		{{ end }}
 	</main>
