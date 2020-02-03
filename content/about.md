@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2019-10-10T18:27:28+02:00
+date: 2019-11-10T18:27:28+02:00
 draft: false
 layout: "about"
 menu: main
