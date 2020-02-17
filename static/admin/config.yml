@@ -29,3 +29,15 @@ collections:
       - { label: 'Curators', name: 'curators', widget: 'string'}
       - { label: 'Synopsis', name: 'synopsis', widget: 'markdown'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: "Cover Image"
+        name: "cover_image"
+        widget: "image"
+        default: ""
+        allow_multiple: false
+      - label: "Documentation"
+        name: "documentation"
+        widget: "image"
+        default: ""
+        allow_multiple: true
+      # - { label: 'Cover Image', name: '', widget: "image", media_library:, config:, allow_multiple: 'false'}
+      # - { label: 'Documentation', name: 'documentation', widget: "image", media_library:, config:, allow_multiple: 'true' }
