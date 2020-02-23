@@ -11,14 +11,9 @@ collections:
     media_folder: ''
     public_folder: ''
     create: true
-    # slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: false
     fields:
-      # - { label: 'Title', name: 'title', widget: 'string' }
-      # - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      # - { label: 'Description', name: 'description', widget: 'string' }
-      # - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Title', name: 'title', widget: 'string'}
       - { label: 'Publish Date', name: 'date', widget: 'datetime'}
       - { label: 'Exhibition Opening', name: 'exhibition_opening', widget: 'string'}
@@ -39,5 +34,6 @@ collections:
         widget: "image"
         default: ""
         allow_multiple: true
-      # - { label: 'Cover Image', name: '', widget: "image", media_library:, config:, allow_multiple: 'false'}
-      # - { label: 'Documentation', name: 'documentation', widget: "image", media_library:, config:, allow_multiple: 'true' }
+        media_library:
+          config:
+            multiple: true
