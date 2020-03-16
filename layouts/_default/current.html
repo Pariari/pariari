@@ -1,0 +1,15 @@
+{{ range first 1 (where .Site.RegularPages "Section" "programming" ) }}
+<a class="list__item--a" href="{{ .Permalink }}">
+<article class="list__item list__item--current">
+  <h2>Current Exhibition</h2>
+  <h1>{{ .Title }}</h1>
+  {{ if or .Params.artists .Params.curators }}
+  <div>
+    {{ with .Params.artists }}<p><span style="font-variant:small-caps">with </span>{{ . }}</p>{{ end }}
+    {{ with .Params.curators}}<p><span style="font-variant:small-caps">curated by </span>{{ . }}</p>{{ end }}
+  </div>
+  {{ end }}
+  <h2>{{ .Params.exhibition_start }}–{{ .Params.exhibition_end }}</h2>
+</article>
+</a>
+{{ end }}

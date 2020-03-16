@@ -1,0 +1,38 @@
+{{ define "main" }}
+	<main class="exhibition">
+		{{ range first 1 (.Resources.ByType "image") }}
+		<figure class="exhibition__cover">
+			<img src="{{ .Permalink }}">
+		</figure>
+		{{ end }}
+
+		<article class="exhibition__info">
+			<div>
+				<h1>{{ .Title }}</h1>
+				<h2>{{ .Params.exhibition_start }}–{{ .Params.exhibition_end }}</h2>
+			</div>
+
+			{{ if or .Params.artists .Params.curators }}
+		  <div class="exhibition__info--artists">
+		    {{ with .Params.artists }}<p><span style="font-variant:small-caps">with </span>{{ . }}</p>{{ end }}
+		    {{ with .Params.curators}}<p><span style="font-variant:small-caps">curated by </span>{{ . }}</p>{{ end }}
+		  </div>
+		  {{ end }}
+		</article>
+
+		<article class="exhibition__description">
+			<div>
+				{{ .Content }}
+			</div>
+			{{ range first 1 (.Resources.ByType "pdf") }}
+				<div><a href="{{ .Permalink }}" target="_blank" class="button">Roomsheet (PDF)</a></div>
+			{{ end }}
+		</article>
+
+		{{ range after 1 (.Resources.ByType "image") }}
+		<figure class="exhibition__documentation">
+			<img src="{{ .Permalink }}">
+		</figure>
+		{{ end }}
+	</main>
+{{ end }}

@@ -1,0 +1,13 @@
+{{ define "main" }}
+	<main class="programming">
+		<div class="programming__text">
+			<span>{{ .Content }}</span>
+		</div>
+
+		<div class="list">
+			{{ .Render "current" }}
+			{{ .Render "previous" }}
+		</div>
+	</main>
+
+{{ end }}

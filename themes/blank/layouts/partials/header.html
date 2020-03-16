@@ -1,8 +1,0 @@
-<header>
-	<span class="logo"><a href="{{ .Site.BaseURL }}" alt="{{ .Site.Title }}" style="float:left"><img src="/images/Pari_Logo.svg"></a></span>
-	{{ with .Site.Menus.main }}
-			{{ range . }}
-			<span><a href="{{ .URL | relURL }}">{{ .Name }}</a></span>
-			{{ end }}
-	{{ end }}
-</header>
