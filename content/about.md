@@ -9,7 +9,7 @@ weight: 2
 address_line1: Cnr Hunter St and O'Connell St
 address_line2: Parramatta NSW 2150
 email: hello@pariari.org
-opening_days: Monday–Friday
+opening_days: Wednesday–Friday
 opening_hours: 12pm–6pm
 opening_weekend: Saturday–Sunday
 opening_hours_weekend: 12pm–4pm
