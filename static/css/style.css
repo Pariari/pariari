@@ -76,7 +76,7 @@ main {
   width: calc(100% + 40px);
   padding: 10px 20px 10px 20px;
   margin: 0 0 0 -20px;
-  background: lightblue;
+  /* background: lightblue; */
   text-decoration: none!important;
   align-items: first baseline;
 }
@@ -117,6 +117,59 @@ main {
   color: white;
   background-color: black;
   text-decoration: none;
+}
+
+.about {
+  align-items: first baseline;
+  /* margin-top: -40px; */
+  grid: var(--grid);
+  align-items: first baseline;
+}
+
+.about article:first-of-type {
+  grid-column: 1 / span 2;
+}
+.about article:last-of-type {
+  grid-column: 5 / span 4;
+}
+
+.about article:first-of-type h1 {
+  font: var(--secondary);
+  padding-bottom: 10px;
+}
+.about article:first-of-type h3 {
+  font: var(--secondary);
+  padding-top: 10px;
+  padding-bottom: 0px;
+}
+
+.about article:last-of-type h1 {
+  padding-bottom: 20px;
+}
+
+.about p { font: var(--primary) }
+
+.about_newsletter {
+  padding-top: -20px;
+}
+
+input, .mailinglist_button {
+	border: none;
+  background: none;
+	font: var(--primary);
+	line-height: 1.25;
+  padding: 0 0 0 0;
+}
+.mailinglist_button:hover { text-decoration: underline; }
+
+.about_contact {
+  padding-bottom: 40px;
+}
+
+.sponsors {
+  font: var(--secondary);
+  text-align: center;
+  padding-top:20px;
 }
 
 /*

@@ -1,6 +1,6 @@
 {{ range after 1 (where .Site.RegularPages "Section" "programming" ) }}
 <a class="list__item--a" href="{{ .Permalink }}">
-<article class="list__item list__item--previous">
+<article class="list__item list__item--previous" style="background:#{{ .Params.colour }}">
   <h2>Previous Exhibition</h2>
   <h1>{{ .Title }}</h1>
   <h2>{{ .Params.exhibition_start }}–{{ .Params.exhibition_end }}</h2>

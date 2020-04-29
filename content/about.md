@@ -14,9 +14,7 @@ opening_hours: 12pm–6pm
 opening_weekend: Saturday–Sunday
 opening_hours_weekend: 12pm–4pm
 
-getting_here: "Getting Here
-
-"
+getting_here: "Getting Here"
 
 team: Akil Ahamat, Hayley Coghlan, Kalanjay Dhir, Rebecca Gallo, Talitha Hanna, Gianna Hayes, Namika Parajuli, EJ Son, Alexander Tanazefti, Justine Youssef, Tian Zhang
 founders: Kalanjay Dhir, Rebecca Gallo, Alexander Tanazefti, Sasanki Tennakoon, Justine Youssef and Tian Zhang

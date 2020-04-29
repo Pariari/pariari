@@ -8,7 +8,7 @@ exhibition_end: 23.11.19
 artists: Serwah Attafuah, Mechelle Bounpraseuth, Nicole Barakat, Leila El Rayes, Haines
   & Hinterding, Gianna Hayes, Kerrie Kenton, Shivanjani Lal, Hyun Lee and EJ Son
 curators: Kalanjay Dhir and Tian Zhang
-
+colour: FFFACD
 synopsis: Pari’s inaugural exhibition, 10 Degrees Hotter, takes its name from the heat that exudes out of Western Sydney. It’s hot out here in more ways than one. There’s the urban heat island effect which renders the western suburbs its own microclimate, ever-worsening as the climate crisis progresses. Heat is also an energy force, a symptom of changing states — and here in the west, artists fan the embers, watch the smoke rise, and let off steam.
 
 ---
