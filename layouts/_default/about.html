@@ -58,14 +58,19 @@
 		<article class="about_description">
 			<h1>{{ .Title }}</h1>
 			{{ .Content }}
+			<br>
 			<div class="directors">
 				<h1>Team</h1>
 				<p>Pari is currently run by {{ .Params.team }}.</p>
+				<p>Previous members of the directors team included {{ .Params.previous }}.</p>
 				<p>The founding team consisted of {{ .Params.founders }}.</p>
 				<p></p>
-				<img src="/images/Directors.jpeg">
+				<!-- <img src="/images/Directors.jpeg"> -->
 			</div>
-			<div class="sponsors">Pari is supported by the NSW Government through Create NSW, and the City of Parramatta<br>
+			<div class="sponsors">
+				Pari is supported by the NSW Government through Create NSW, and the City of Parramatta.
+				<br>Media players provided by <a href="https://lupaplayer.com/" target="_blank">Lūpa</a>.
+				<br>
 				<img src="/images/SponsorLogos.png" alt="">
 			</div>
 		</article>

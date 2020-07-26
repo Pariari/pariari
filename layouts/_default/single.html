@@ -27,6 +27,11 @@
 			{{ range first 1 (.Resources.ByType "pdf") }}
 				<div><a href="{{ .Permalink }}" target="_blank" class="button">Roomsheet (PDF)</a></div>
 			{{ end }}
+			{{ if .Params.lupa }}
+				<div class="lupa">
+					<p>{{ .Params.lupa | markdownify }} More information at <a href="https://lupaplayer.com/" target="_blank">lupaplayer.com </a></p>
+				</div>
+			{{ end }}
 		</article>
 
 		{{ range after 1 (.Resources.ByType "image") }}

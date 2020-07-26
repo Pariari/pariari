@@ -9,14 +9,15 @@ weight: 2
 address_line1: Cnr Hunter St and O'Connell St
 address_line2: Parramatta NSW 2150
 email: hello@pariari.org
-opening_days: Monday–Friday
+opening_days: Wednesday–Friday
 opening_hours: 12pm–6pm
 opening_weekend: Saturday–Sunday
 opening_hours_weekend: 12pm–4pm
 
 getting_here: "Getting Here"
 
-team: Akil Ahamat, Hayley Coghlan, Kalanjay Dhir, Rebecca Gallo, Talitha Hanna, Gianna Hayes, Namika Parajuli, EJ Son, Alexander Tanazefti, Justine Youssef, Tian Zhang
+team: Akil Ahamat, Hayley Coghlan, Kalanjay Dhir, Rebecca Gallo, Talitha Hanna, Leon Kannangara, Namika Parajuli, Alexander Tanazefti, Tian Zhang and Josephine Wyburn
+previous: Gianna Hayes, EJ Son and Justine Youssef
 founders: Kalanjay Dhir, Rebecca Gallo, Alexander Tanazefti, Sasanki Tennakoon, Justine Youssef and Tian Zhang
 ---
 
