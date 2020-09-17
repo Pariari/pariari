@@ -37,10 +37,9 @@
 			</div>
 		</article>
 
-		{{ range after 1 (.Resources.ByType "image") }}
-		<figure class="exhibition__documentation">
-			<img src="{{ .Permalink }}">
-		</figure>
-		{{ end }}
+		<article style="margin-top:40px">
+			<img class="p2p_logos" src="{{ .Permalink }}/P2P_Logos.png" alt="Australia Council, Gudskul and The White Pube logos">
+			<p style="font:var(--secondary); text-align:center">This project has been assisted by the Australian Government through the Australia Council, its arts funding and advisory body.</p>
+		</article>
 	</main>
 {{ end }}

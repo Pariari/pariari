@@ -42,8 +42,6 @@ Gudskul workshop: *Speculative Collective*
 The White Pube workshop: *how to write from The Self*  
 🕙 Tues 10 Nov 6-9pm (AEST)
 
-These are limited-capacity sessions open to participants based in Australia. More info about each workshop and how to apply below.
+These are limited-capacity sessions open to participants based in Australia. More info about each workshop and how to apply below. Both workshops will be delivered in English.
 
-Both workshops will be delivered in English. Please email hello@pariari.org or DM [@pari_ari_](https://www.instagram.com/pari_ari_/) on Instagram if you would like to discuss any access needs.
-
-This project has been assisted by the Australian Government through the Australia Council, its arts funding and advisory body.
+If you have any questions about the workshops or would like to discuss any access needs, email hello@pariari.org or DM [@pari_ari_](https://www.instagram.com/pari_ari_/) on Instagram.
