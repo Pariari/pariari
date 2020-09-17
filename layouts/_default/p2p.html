@@ -1,0 +1,46 @@
+{{ define "main" }}
+	<main class="exhibition">
+		{{ range first 1 (.Resources.ByType "image") }}
+		<figure class="exhibition__cover">
+			<img src="{{ .Permalink }}">
+		</figure>
+		{{ end }}
+
+		<article class="exhibition__description">
+			<div>
+				{{ .Content }}
+				<hr>
+			</div>
+			<div></div>
+			<div class="gudskul">
+				<p><span style="font-weight:bold!important">Gudskul workshop: Speculative Collective</span><br>Tues 20 Oct 5–8pm (AEST)</p>
+				{{ .Params.gudskulinfo | markdownify }}
+				<a href="{{ .Params.gudskullink }}" target="_blank" class="button button--p2p">I'm interested, register me!</a>
+				<p><span style="font-weight:bold!important">About Gudskul</span><br>{{ .Params.gudskulabout | markdownify}}</p>
+				<p>
+					<a href="https://www.instagram.com/gudskul/" target="_blank">@gudskul</a><br>
+					<a href="https://gudskul.art/en/home/" target="_blank">https://gudskul.art/en/home/</a>
+				</p>
+				<hr>
+			</div>
+			<div class=""></div>
+			<div class="whitepube">
+				<p><span style="font-weight:bold!important">The White Pube workshop: how to write from The Self</span><br>Tues 10 Nov 6–9pm (AEST)</p>
+				{{ .Params.whitepubeinfo | markdownify }}
+				<a href="{{ .Params.whitepubelink }}" target="_blank" class="button button--p2p">I'm interested and want to apply!</a>
+				<p>This workshop is open to writers based in Australia. Writers of all types are encouraged to apply — fiction, non-fiction, criticism, poetry, video essays etc. We would like to prioritise writers who are First Nations, people of colour, disabled, trans, non-binary and/or gender diverse.</p>
+				<p></p>
+				<p>
+					<a href="https://www.instagram.com/thewhitepube/" target="_blank">@thewhitepube</a><br>
+					<a href="https://www.thewhitepube.co.uk/" target="_blank">https://www.thewhitepube.co.uk/</a>
+				</p>
+			</div>
+		</article>
+
+		{{ range after 1 (.Resources.ByType "image") }}
+		<figure class="exhibition__documentation">
+			<img src="{{ .Permalink }}">
+		</figure>
+		{{ end }}
+	</main>
+{{ end }}
