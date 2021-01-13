@@ -16,12 +16,12 @@ opening_hours_weekend: 12pm–4pm
 
 getting_here: "Getting Here"
 
-team: Akil Ahamat, Hayley Coghlan, Kalanjay Dhir, Rebecca Gallo, Talitha Hanna, Leon Kannangara, Namika Parajuli, Alexander Tanazefti, Tian Zhang and Josephine Wyburn
-previous: Gianna Hayes, EJ Son and Justine Youssef
+team: Hayley Coghlan, Kalanjay Dhir, Rebecca Gallo, Talitha Hanna, Hareen Johl, Namika Parajuli, Alexander Tanazefti, Tian Zhang and Josephine Wyburn
+previous: Akil Ahamat, Gianna Hayes, Leon Kannangara, EJ Son and Justine Youssef
 founders: Kalanjay Dhir, Rebecca Gallo, Alexander Tanazefti, Sasanki Tennakoon, Justine Youssef and Tian Zhang
 ---
 
-Pari is a new artist-run initiative in Parramatta. We are for art that tells stories that need to be told, sheds new light on old thinking, or tackles new ideas altogether. We are for getting you to Parra, or making it so that you don’t have to leave here to come together over new, challenging, boundary-pushing art. We are for bringing art and ideas to Western Sydney audiences, and bringing audiences from elsewhere to experience art in the crane-hogging, uber-developing, beautifully contradictory and diverse place we call Parramatta, in the geographical centre of Sydney’s urban sprawl, in the heart of unceded Darug territory.
+Pari is an artist-run space where people and communities come together to talk, think, learn and do. Art and artists are at the core of Pari’s activities: we believe that artists play a vital role in processing and reflecting the important issues of our time. Reflecting the social, the political and the deeply personal, our program draws out ideas that are particular to our location in Western Sydney on unceded Darug land, and that resonate well beyond the local.
 
 We will facilitate the space, but what Pari is will be defined by the people who show here, the people who come and look and listen, the conversations that happen, the things that get said and thought and reconsidered.
 
