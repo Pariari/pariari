@@ -1,0 +1,18 @@
+{{ define "main" }}
+	<main class="exhibition">
+		{{ range first 1 (.Resources.ByType "image") }}
+		<figure class="exhibition__cover">
+			<img src="{{ .Permalink }}">
+		</figure>
+		{{ end }}
+
+
+
+		<article class="exhibition__description">
+      <h1 style="text-align:center; font-size:30px; margin:50px 0;">{{ .Title }}</h1>
+			<div >
+				{{ .Content }}
+			</div>
+		</article>
+	</main>
+{{ end }}

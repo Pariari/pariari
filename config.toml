@@ -7,3 +7,6 @@ title = "Pari"
   address = "Cnr Hunter St and O'Connell St, Parramatta"
   instagram = "https://instagram.com/pari_ari_"
   facebook = "https://facebook.com/pariartspace"
+
+[markup.goldmark.renderer]
+  unsafe= true
