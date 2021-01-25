@@ -16,8 +16,8 @@ opening_hours_weekend: 12pm–4pm
 
 getting_here: "Getting Here"
 
-team: Hayley Coghlan, Kalanjay Dhir, Rebecca Gallo, Talitha Hanna, Hareen Johl, Namika Parajuli, Alexander Tanazefti, Tian Zhang and Josephine Wyburn
-previous: Akil Ahamat, Gianna Hayes, Leon Kannangara, EJ Son and Justine Youssef
+team: Hayley Coghlan, Kalanjay Dhir, Rebecca Gallo, Talitha Hanna, Hareen Johl, Alexander Tanazefti, Amy Toma, Tian Zhang and Josephine Wyburn
+previous: Akil Ahamat, Gianna Hayes, Leon Kannangara, Namika Parajuli, EJ Son and Justine Youssef
 founders: Kalanjay Dhir, Rebecca Gallo, Alexander Tanazefti, Sasanki Tennakoon, Justine Youssef and Tian Zhang
 ---
 
@@ -25,4 +25,4 @@ Pari is an artist-run space where people and communities come together to talk, 
 
 We will facilitate the space, but what Pari is will be defined by the people who show here, the people who come and look and listen, the conversations that happen, the things that get said and thought and reconsidered.
 
-The first few shows at Pari will be curated in-house, after which time exhibitions will be programmed from open call outs. Pari is will pay artist fees for every exhibition and public program, with support from the NSW Government through Create NSW.
+Pari pays artist fees for every exhibition and public program, with support from the NSW Government through Create NSW.
