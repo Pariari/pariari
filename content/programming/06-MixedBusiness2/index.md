@@ -5,7 +5,7 @@ exhibition_opening: 30.01.21
 exhibition_opening_time: "2PM"
 exhibition_start: 30.01.21
 exhibition_end: 14.03.21
-artists: Duha Ali and Justine Youssef, Brenton Alexander Smith, Monisha Chippada, Suzanne Claridge, Hayley Coghlan, Kalanjay Dhir, Rebecca Gallo, Fei Gao, Talitha Hanna, Samuel Kirby, Namika Parajuli, Ej Son, Charlie Sundborn and Marcus Whale, Dorcas Tang, Nathan Wratten, Josephine Wyburn
+artists: Duha Ali and Justine Youssef, Brenton Alexander Smith, Monisha Chippada, Suzanne Claridge, Hayley Coghlan, Kalanjay Dhir, Rebecca Gallo, Fei Gao, Talitha Hanna, Samuel Kirby, Namika Parajuli, Ej Son, Charlie Sundborn and Marcus Whale, Dorcas Tang, Nathan Wratten, Josephine Wyburn, Tian Zhang
 curators: Amy Toma, Josephine Wyburn and Suzanne Claridge
 colour: dd5424
 synopsis: '*Mixed Business 2* is Pari’s second rendition of our annual show dedicated to our gallery keepers, facilitators, artists, and directors, who help run and sustain this space of multiplicity and exchange.'
