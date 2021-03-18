@@ -25,17 +25,13 @@ whitepubeinfo: |
 
   We look forward to meeting with you.
 whitepubelink: https://forms.gle/on3PfaQHoE5JY1sPA
+gudskulinfo2: |
+  Gudskul hosted their knowledge-sharing module *Speculative Collective*. Through random groupings, participants met with strangers to form a temporary collective. The workshop centred personal wisdoms and experiences, bringing these into conversation with one another to explore ways of generating knowledge collectively.
+whitepubeinfo2: |
+  The White Pube held the writing workshop *How to write from the self*. Gabrielle and Zarina took us through the politics and logistics of critical writing — juicy stuff like embracing your own subjectivity, ditching theory, and holding institutions to account.
 ---
 P2P is a program of virtual sharing between Pari and artist-run collectives and spaces around the world. Through a series of online workshops with friends near and far, we hope to collectively engage with ideas and models for collaboration and criticality within and beyond the arts.
 
-For this first iteration, Pari has teamed up with [Gudskul](https://gudskul.art/en/home/) and [The White Pube](https://www.thewhitepube.co.uk/) to host the following workshops online:
+For this first iteration, Pari teamed up with Gudskul and The White Pube for a series of online workshops and studio visits.
 
-Gudskul workshop: *Speculative Collective*  
-🕙 Tues 20 Oct 5-8pm (AEST)
-
-The White Pube workshop: *how to write from The Self*  
-🕙 Tues 10 Nov 6-9pm (AEST)
-
-These are limited-capacity sessions open to participants based in Australia. More info about each workshop and how to apply below. Both workshops will be delivered in English.
-
-If you have any questions about the workshops or would like to discuss any access needs, email hello@pariari.org or DM [@pari_ari_](https://www.instagram.com/pari_ari_/) on Instagram.
+The following videos and diagrams were created from the conversations we had and issues raised during the P2P workshops.

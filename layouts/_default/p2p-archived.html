@@ -1,0 +1,47 @@
+{{ define "main" }}
+	<main class="exhibition">
+		{{ range first 1 (.Resources.ByType "image") }}
+		<figure class="exhibition__cover">
+			<img src="{{ .Permalink }}">
+		</figure>
+		{{ end }}
+
+		<article class="exhibition__description">
+			<div>
+				{{ .Content }}
+				<hr>
+			</div>
+			<div></div>
+			<div class="gudskul">
+				<p><span style="font-weight:bold!important">Gudskul workshop: Speculative Collective</span><br>Tues 20 Oct 5–8pm (AEST)</p>
+				{{ .Params.gudskulinfo | markdownify }}
+				<span class="button button--inactive">Signups Closed</span>
+				<p><span style="font-weight:bold!important">About Gudskul</span><br>{{ .Params.gudskulabout | markdownify}}</p>
+				<br>
+				<p>
+					<a href="https://www.instagram.com/gudskul/" target="_blank">@gudskul</a><br>
+					<a href="https://gudskul.art/en/home/" target="_blank">https://gudskul.art/en/home/</a>
+				</p>
+				<hr>
+			</div>
+			<div class=""></div>
+			<div class="whitepube">
+				<p><span style="font-weight:bold!important">The White Pube workshop: how to write from The Self</span><br>Tues 10 Nov 6–9pm (AEST)</p>
+				{{ .Params.whitepubeinfo | markdownify }}
+				<span class="button button--inactive">Applications Closed</span>
+				<p style="margin-top:-10px">Applications close Sun 11 Oct.</p>
+				<p>This workshop is open to writers based in Australia. Writers of all types are encouraged to apply — fiction, non-fiction, criticism, poetry, video essays etc. We would like to prioritise writers who are First Nations, people of colour, disabled, trans, non-binary and/or gender diverse.</p>
+				<p></p>
+				<p>
+					<a href="https://www.instagram.com/thewhitepube/" target="_blank">@thewhitepube</a><br>
+					<a href="https://www.thewhitepube.co.uk/" target="_blank">https://www.thewhitepube.co.uk/</a>
+				</p>
+			</div>
+		</article>
+
+		<article style="margin-top:40px">
+			<img class="p2p_logos" src="{{ .Permalink }}/P2P_Logos.png" alt="Australia Council, Gudskul and The White Pube logos">
+			<p style="font:var(--secondary); text-align:center">This project has been assisted by the Australian Government through the Australia Council, its arts funding and advisory body.</p>
+		</article>
+	</main>
+{{ end }}
