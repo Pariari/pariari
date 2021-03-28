@@ -6,7 +6,7 @@ exhibition_opening_time: "2PM"
 exhibition_start: 28.03.21
 exhibition_end: 23.05.21
 artists: Anney Bounpraseuth, Kevin Diallo, Future Method, Maya Kilic, Minh Tinh Le, Leanne Watson, Alvin Zhong
-curators: Hayley Coghlan, Kalanjay Dhir, Amy Toma
+curators: Hayley Coghlan, Kalanjay Dhir
 colour: 5f5553
 synopsis: '*Pollen* is used for transferring DNA; it carries the memory of its previous form.'
 
