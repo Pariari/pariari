@@ -24,7 +24,7 @@
 			<div>
 				{{ .Content }}
 			</div>
-			{{ range first 1 (.Resources.ByType "pdf") }}
+			{{ range first 1 (.Resources.ByType "application") }}
 				<div><a href="{{ .Permalink }}" target="_blank" class="button">Roomsheet (PDF)</a></div>
 			{{ end }}
 			{{ if .Params.lupa }}
