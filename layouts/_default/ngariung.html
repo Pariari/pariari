@@ -1,0 +1,18 @@
+{{ define "main" }}
+	<main class="exhibition ngariung">
+		{{ range first 1 (.Resources.ByType "image") }}
+		<figure class="exhibition__cover">
+			<img src="{{ .Permalink }}">
+		</figure>
+		{{ end }}
+
+		<article class="exhibition__description">
+			{{ .Content }}
+		</article>
+
+		<article style="margin-top:40px">
+			<img class="p2p_logos" src="{{ .Permalink }}/Pari_P2P_Ngariung_Logos.png" alt="Australia Council and Create NSW logos">
+			<div style="font:var(--secondary); text-align:center">{{ .Params.funding | markdownify }}</div>
+		</article>
+	</main>
+{{ end }}

@@ -1,12 +1,14 @@
 ---
-title: "5 From 5"
-date: 2019-11-10T18:27:28+02:00
+title: "5 From 5 (at Carriageworks)"
+date: 2021-02-01T15:12:09+02:00
 draft: false
-layout: "single"
+url: "/5from5"
+exhibition_opening: 12.02.21
 exhibition_start: 12.02.21
 exhibition_end: 07.03.21
 artists: Richmond Kobla Dido (Kobla Photography), Leila El Rayes, Kath Fries, Mehmet Mevlütoğlu, Feras Shaheen
 curators: Kalanjay Dhir, Talitha Hanna and Tian Zhang
+colour: FFFF00
 ---
 
 *5 from 5* is Pari’s first trip east. As a new artist-run space on Darug land in the shifting cityscape of Parramatta, this is our debut off-site project.
