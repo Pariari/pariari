@@ -44,6 +44,12 @@ Preview the application forms:<br>
 [Flying Solo (Aus)](https://docs.google.com/document/d/11X0VfPNdJPS-d_GbJcS5ULJRdIGke9hnT-DnZ31D97c/edit?usp=sharing)<br>
 [Flying Solo (Indo)](https://docs.google.com/document/d/1qhqWYqSpnABLv5tRa6x4X1n1vHZQwJOMQND2KKfsL_Q/edit?usp=sharing)<br>
 
+Pratinjau formulir aplikasi:<br>
+[Kolektif yang aktif (Aus)](https://docs.google.com/document/d/1aRdnnXdvUiWZrPne_eKLyt2lNM3vnGf2uF5AiPMRN98/edit?usp=sharing)<br>
+[Kolektif yang akan direncanakan (Aus)](https://docs.google.com/document/d/1LQAy3cUOipoaT7Amp5pxVPr_z8gq_kltFYDXxlk6eyE/edit?usp=sharing)<br>
+[Seniman Individu (Aus)](https://docs.google.com/document/d/11X0VfPNdJPS-d_GbJcS5ULJRdIGke9hnT-DnZ31D97c/edit?usp=sharing)<br>
+[Seniman Individu (Indo)](https://docs.google.com/document/d/1qhqWYqSpnABLv5tRa6x4X1n1vHZQwJOMQND2KKfsL_Q/edit?usp=sharing)<br>
+
 <br>
 
 ***
