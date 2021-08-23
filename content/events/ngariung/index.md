@@ -111,13 +111,13 @@ Thursday 2 September 2021 5–6pm AEST / 2–3pm WIB [Zoom Link](https://us02web
 4 November 2021 – 20 January 2022
 
 #### The program will take place on Zoom over eight 2-hour sessions at the following times:
-2-4pm WIB (Java, Sumatera) <br>
-3-5pm AWST / WITA (WA, Bali, Sulawesi, East Nusa Tenggara)<br>
-4-6pm WIT (Papua)<br>
-4:30-6:30pm ACST (NT)<br>
-5-7pm AEST (QLD)<br>
-5:30-7:30pm ACDT (SA, Broken Hill)<br>
-6-8pm AEDT (NSW except Broken Hill, VIC, ACT)
+2–4pm WIB (Java, Sumatera) <br>
+3–5pm AWST / WITA (WA, Bali, Sulawesi, East Nusa Tenggara)<br>
+4–6pm WIT (Papua)<br>
+4:30–6:30pm ACST (NT)<br>
+5–7pm AEST (QLD)<br>
+5:30–7:30pm ACDT (SA, Broken Hill)<br>
+6–8pm AEDT (NSW except Broken Hill, VIC, ACT)
 
 #### The program will run from November 2021 to January 2022 on all of the following days: 
 Thu 11 Nov 2021 <br>
