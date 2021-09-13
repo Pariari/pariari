@@ -198,11 +198,15 @@ Pari dan Gudskul Ekosistem berkomitmen untuk mengakomodir kebutuhan akses pesert
 
 <br>
 
+View our [Frequently Asked Questions](https://docs.google.com/document/d/1zSXJyU2IwJPDJ9LcgIlTuIe-ft0P1H35iidJ53v-vzw/edit?usp=sharing).
+
 If you have any questions about your application, please join our online drop-in session on Thursday 2 September 2021 2-3pm WIB / 5-6pm AEST. [Zoom Link](https://us02web.zoom.us/j/86578821915)
 
 Email us at [hello@pariari.org](mailto:hello@pariari.org?subject=Ngariung) or DM us on [Instagram](https://instagram.com/pari_ari_).
 
 <br>
+
+Lihat [Pertanyaan yang Sering Diajukan](https://docs.google.com/document/d/1zSXJyU2IwJPDJ9LcgIlTuIe-ft0P1H35iidJ53v-vzw/edit?usp=sharing).
 
 Jika Anda memiliki pertanyaan tentang pendaftaran program ini, silakan bergabung dengan sesi drop-in online kami pada hari Kamis 2 September 2021 pukul 14:00 – 15:00 WIB / 5-6 sore AEST. [Zoom tautan](https://us02web.zoom.us/j/86578821915)
 
