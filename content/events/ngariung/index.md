@@ -34,7 +34,7 @@ Kami tertarik dengan kelompok yang terhubung dengan seni dan budaya dalam arti l
 </div>
 <br>
 
-<a class="button button--active" style="cursor:pointer" href="https://forms.gle/mWTLxHksHaZsW5XR9" target="_blank">Apply Now | Pendaftaran</a>
+<a class="button button--inactive" style="cursor:default">Applications Closed</a>
 <br>Applications close Sunday 19 September 2021 (11.59pm in your timezone)
 <br>Pendaftaran dibuka hingga Minggu 19 September 2021 pukul 23.59 di zona waktu Anda.
 
